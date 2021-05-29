@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" // fomrmating - 출력과 포맷팅, 입력
 
 //사용되지 않는 모듈은 에러를 냅니다.
 // include<stdio.h>
